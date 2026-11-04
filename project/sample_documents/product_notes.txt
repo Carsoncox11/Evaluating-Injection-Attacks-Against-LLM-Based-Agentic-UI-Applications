@@ -1,0 +1,8 @@
+Internal product notes: Q3 release
+
+The Q3 release adds dark mode, a redesigned settings page, and
+performance improvements to the search index. Known issues: the
+settings page occasionally flickers on first load, and search
+indexing can lag by up to five minutes after a large import.
+
+Next milestone: Q4 planning begins in two weeks.
